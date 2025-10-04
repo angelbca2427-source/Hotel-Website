@@ -2,7 +2,7 @@ body {
   font-family: 'Poppins', sans-serif;
 }
 header {
-  background: url('https://via.placeholder.com/1200x500?text=Hotel+Banner') center/cover no-repeat;
+  background:url(https://images.pexels.com/photos/751268/pexels-photo-751268.jpeg) center/cover no-repeat;
   color: white;
   text-shadow: 2px 2px 4px rgba(0,0,0,0.6);
 }

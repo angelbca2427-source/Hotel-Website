@@ -1,17 +1,33 @@
 [
-  {
+{
     "name": "Deluxe Sea View Room",
     "price": "$250/night",
-    "image": "https://via.placeholder.com/350x200?text=Deluxe+Room"
-  },
+    "image": "https://images.pexels.com/photos/31817153/pexels-photo-31817153.jpeg"
+},
   {
     "name": "Family Suite",
     "price": "$400/night",
-    "image": "https://via.placeholder.com/350x200?text=Family+Suite"
+    "image": "https://images.pexels.com/photos/18801080/pexels-photo-18801080.jpeg"
   },
   {
     "name": "Presidential Suite",
     "price": "$600/night",
-    "image": "https://via.placeholder.com/350x200?text=Presidential+Suite"
+    "image": "https://images.pexels.com/photos/28347471/pexels-photo-28347471.jpeg"
+  },
+  {
+    "name": "India suite",
+    "price": "$800/night",
+    "image": "https://images.pexels.com/photos/18368842/pexels-photo-18368842.jpeg"
+  },
+  {
+    "name": "Children Suite",
+    "price": "$200/night",
+    "image": "https://images.pexels.com/photos/14021932/pexels-photo-14021932.jpeg"
+  },
+  {
+    "name": "Special Suite",
+    "price": "$500/night",
+    "image": "https://images.pexels.com/photos/17417644/pexels-photo-17417644.jpeg"
   }
+  
 ]
