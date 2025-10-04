@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Deluxe Sea View Room",
+    "price": "$250/night",
+    "image": "https://via.placeholder.com/350x200?text=Deluxe+Room"
+  },
+  {
+    "name": "Family Suite",
+    "price": "$400/night",
+    "image": "https://via.placeholder.com/350x200?text=Family+Suite"
+  },
+  {
+    "name": "Presidential Suite",
+    "price": "$600/night",
+    "image": "https://via.placeholder.com/350x200?text=Presidential+Suite"
+  }
+]
